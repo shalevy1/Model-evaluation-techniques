@@ -2,7 +2,7 @@
 
 The code in the jupyter notebook follows the hands-on analysis from the book Data Mining and Predictive Analytics by Larose & Larose, Part III, Chapter 15.
 
-## Data set
+## Dataset
 
 The dataset (**churn.txt**) used in the notebook could be downloaded from the repository.
 
